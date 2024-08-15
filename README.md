@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning SpriteKit, database internals, several new programming languages, improving my algorithms skills.
 - 💞️ I’m looking to collaborate in writing mobile applications and games, because I want to improve on this.
 - 📫 How to reach me: <a href="https://t.me/gubinik" target="_blank">https://t.me/gubinik</a>, <a href="mailto:iam@ngubin.com" target="_blank">iam@ngubin.com</a>.
+- 📰 My channel about IT: <a href="https://t.me/gubincode" target="_blank">https://t.me/gubincode</a>.
 
 <!---
 ngubin/ngubin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
